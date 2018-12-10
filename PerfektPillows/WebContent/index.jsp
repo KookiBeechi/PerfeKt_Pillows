@@ -4,15 +4,27 @@
 <html lang="en">
 
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130516150-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130516150-1');
+</script>
+
     <meta charset="UTF-8">
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-
+	<meta name="keywords" content="PerfeKtPillows , PerfeKt Pillows , Bangalore based band,Bengaluru based band,Perfect pillow, Perfect pillows">
+	<meta name="description" content="Bangalore based Music band consisting of 4 people - Shailanchal Uniyal , Deepanshu Sharma, Ganapathy K. R., Padmanabhan K. P.">
+	<meta name="author" content="Saurabh Sharma">
     <!-- Title -->
-    <title>Perfekt Pillows</title>
-
+    <title>PerfeKt Pillows</title>
+<link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/Logo.png">
 
@@ -40,13 +52,13 @@
             <!-- Single Hero Slide -->
             <div class="single-hero-slide d-flex align-items-center justify-content-center">
                 <!-- Slide Img -->
-                <div class="slide-img bg-img" style="background-image: url(img/bg-img/images/bg1.jpg);"></div>
+                <div class="slide-img bg-img" style="background-image: url(img/bg-img/images/bg1.jpg);" title="PerfeKt Pillows background image"></div>
                 <!-- Slide Content -->
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
                             <div class="hero-slides-content text-center">
-                               <center> <h6 data-animation="fadeInUp" data-delay="100ms"><img src="img/core-img/InvertLogo.png" alt="" style="width:15%;"></h6></center>
+                               <!-- <center> <h6 data-animation="fadeInUp" data-delay="100ms"><img src="img/core-img/InvertLogo.png" alt="" style="width:8%;"></h6></center> -->
                                 <h2 data-animation="fadeInUp" data-delay="300ms">PerfeKt Pillows</h2>
                                 <a data-animation="fadeInUp" data-delay="500ms" href="biography.jsp" class="btn oneMusic-btn mt-50">Know About Us <i class="fa fa-angle-double-right"></i></a>
                             </div>
@@ -58,7 +70,7 @@
             <!-- Single Hero Slide -->
             <div class="single-hero-slide d-flex align-items-center justify-content-center">
                 <!-- Slide Img -->
-                <div class="slide-img bg-img" style="background-image: url(img/bg-img/images/bg2.jpg);"></div>
+                <div class="slide-img bg-img" style="background-image: url(img/bg-img/images/bg2.jpg);" title="PerfeKt Pillows background image"></div>
                 <!-- Slide Content -->
                 <div class="container">
                     <div class="row">
@@ -75,7 +87,7 @@
                <!-- Single Hero Slide -->
             <div class="single-hero-slide d-flex align-items-center justify-content-center">
                 <!-- Slide Img -->
-                <div class="slide-img bg-img" style="background-image: url(img/bg-img/images/bg3.jpg);"></div>
+                <div class="slide-img bg-img" style="background-image: url(img/bg-img/images/bg3.jpg);" title="PerfeKt Pillows background image"></div>
                 <!-- Slide Content -->
                 <div class="container">
                     <div class="row">
@@ -112,7 +124,7 @@
 
               <!-- Testimonials Area -->
                 <div class="col-12 col-lg-5" style="margin-bottom: 0px; !important">          
-                   	<img alt="" src="img/bg-img/posters/poster.jpg">                   
+                   	<img alt="" src="img/bg-img/posters/poster.jpg" title="PerfeKt Pillows group image">                   
                 </div>
                 
                   <!-- Newsletter Area -->
@@ -135,86 +147,18 @@ The band aims to continue to write more originals and also supplement them with 
     <!-- ##### Newsletter & Testimonials Area End ##### -->
 
             <div class="row">
+        
                 <div class="col-12">
-                    <div class="albums-slideshow owl-carousel">
-                        <!-- Single Album -->
-                        <div class="single-album">
-                            <img src="img/bg-img/a1.jpg" alt="">
-                            <div class="album-info">
-                                <a href="#">
-                                    <h5>The Cure</h5>
-                                </a>
-                                <p>Second Song</p>
-                            </div>
-                        </div>
-
-                        <!-- Single Album -->
-                        <div class="single-album">
-                            <img src="img/bg-img/a2.jpg" alt="">
-                            <div class="album-info">
-                                <a href="#">
-                                    <h5>Sam Smith</h5>
-                                </a>
-                                <p>Underground</p>
-                            </div>
-                        </div>
-
-                        <!-- Single Album -->
-                        <div class="single-album">
-                            <img src="img/bg-img/a3.jpg" alt="">
-                            <div class="album-info">
-                                <a href="#">
-                                    <h5>Will I am</h5>
-                                </a>
-                                <p>First</p>
-                            </div>
-                        </div>
-
-                        <!-- Single Album -->
-                        <div class="single-album">
-                            <img src="img/bg-img/a4.jpg" alt="">
-                            <div class="album-info">
-                                <a href="#">
-                                    <h5>The Cure</h5>
-                                </a>
-                                <p>Second Song</p>
-                            </div>
-                        </div>
-
-                        <!-- Single Album -->
-                        <div class="single-album">
-                            <img src="img/bg-img/a5.jpg" alt="">
-                            <div class="album-info">
-                                <a href="#">
-                                    <h5>DJ SMITH</h5>
-                                </a>
-                                <p>The Album</p>
-                            </div>
-                        </div>
-
-                        <!-- Single Album -->
-                        <div class="single-album">
-                            <img src="img/bg-img/a6.jpg" alt="">
-                            <div class="album-info">
-                                <a href="#">
-                                    <h5>The Ustopable</h5>
-                                </a>
-                                <p>Unplugged</p>
-                            </div>
-                        </div>
-
-                        <!-- Single Album -->
-                        <div class="single-album">
-                            <img src="img/bg-img/a7.jpg" alt="">
-                            <div class="album-info">
-                                <a href="#">
-                                    <h5>Beyonce</h5>
-                                </a>
-                                <p>Songs</p>
-                            </div>
-                        </div>
+                    <div class="section-heading style-2">
+                       <!--  <p>Featured Songs</p> -->
+                        <h2>Follow us on Instagram</h2>
                     </div>
                 </div>
+           
+              <script src="https://assets.juicer.io/embed.js" type="text/javascript"></script>
+
+<ul class="juicer-feed" data-feed-id="perfekt-pillows-music"><h1 class="referral" style="display: none;"></h1></ul>
+               
             </div>
         </div>
     </section>
@@ -263,7 +207,7 @@ The band aims to continue to write more originals and also supplement them with 
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="single-album-area wow fadeInUp" data-wow-delay="100ms">
                         <div class="album-thumb">
-                            <img src="https://img.youtube.com/vi/jjb2FsnWsWo/0.jpg" alt="perfeKt Pillows Reason">
+                            <img src="https://img.youtube.com/vi/jjb2FsnWsWo/0.jpg" alt="perfeKt Pillows Zen song">
                             <!-- Album Price -->
                             <div class="album-price">
                                 <p>New</p>
@@ -287,7 +231,7 @@ The band aims to continue to write more originals and also supplement them with 
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="single-album-area wow fadeInUp" data-wow-delay="100ms">
                         <div class="album-thumb">
-                            <img src="https://img.youtube.com/vi/dwykK4U-2NY/0.jpg" alt="perfeKt Pillows Reason">
+                            <img src="https://img.youtube.com/vi/dwykK4U-2NY/0.jpg" alt="perfeKt Pillows Cranberry Jam">
                             <!-- Album Price -->
                             <div class="album-price">
                                 <p>New</p>

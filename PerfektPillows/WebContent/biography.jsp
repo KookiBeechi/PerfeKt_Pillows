@@ -4,18 +4,30 @@
 <html lang="en">
 
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130516150-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130516150-1');
+</script>
+
 <meta charset="UTF-8">
 <meta name="description" content="">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport"
 	content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-
+<meta name="keywords" content="PerfeKtPillows , PerfeKt Pillows , Bangalore based band,Bengaluru based band,Perfect pillow, Perfect pillows">
+<meta name="description" content="Bangalore based Music band consisting of 4 people - Shailanchal Uniyal , Deepanshu Sharma, Ganapathy K. R., Padmanabhan K. P.">
+<meta name="author" content="Saurabh Sharma">
 <!-- Title -->
-<title>Perfekt Pillows -biography</title>
+<title>PerfeKt Pillows - The Band</title>
 
 <!-- Favicon -->
-<link rel="icon" href="img/core-img/Logo.png">
+<link rel="icon" href="img/core-img/Logo.png" alt="PerfeKt Pillows logo">
 <link href="https://fonts.googleapis.com/css?family=Heebo" rel="stylesheet">
 
 <!-- Stylesheet -->
@@ -40,7 +52,7 @@
 	<section class="breadcumb-area bg-img bg-overlay"
 		style="background-image: url(img/bg-img/posters/biographyBanner.jpg);">
 	<div class="bradcumbContent">
-		<h2>Biography</h2>
+		<h2>The Band</h2>
 	</div>
 	</section>
 	<!-- ##### Breadcumb Area End ##### -->
@@ -53,7 +65,7 @@
 			<div class="col-12">
 
 				<div class="section-heading style-2">
-					<h2 style="font-size: 20px; color: #FF7C66;">Perfekt Pillows</h2>
+					<h2 style="font-size: 20px; color: #FF7C66;">PerfeKt Pillows</h2>
 					<br>
 					<!--  <center> <h6 data-animation="fadeInUp" data-delay="100ms"><img src="img/core-img/Logo.png" alt="" style="width:15%; z-index: 2000;"></h6></center> -->
 					<!-- ##### Newsletter & Testimonials Area Start ##### -->
@@ -64,13 +76,13 @@
 							<!-- Testimonials Area -->
 							<div class="col-12 col-lg-5"
 								style="margin-bottom: 0px; background-position: center;">
-								<img alt="" src="img/bg-img/posters/biographyPoster.jpg">
+								<img alt="PerfeKt Pillows Biography" src="img/bg-img/posters/biographyPoster.jpg">
 							</div>
 
 							<!-- Newsletter Area -->
 							<div class="col-12 col-lg-7">
 								<div class="bio-area">
-									<div class="bio">
+									<div class="bio" style="color: black;">
 										4 people, with completely different musical background and
 										influences come together to form a band aiming to create a
 										unique sound - that is PerfeKt Pillows \m/. With a common
@@ -114,7 +126,7 @@
 
 							<!-- Testimonials Area -->
 							<div class="col-12 col-lg-3" style="margin-bottom: 0px;">
-								<img alt="" src="img/bg-img/biography/vocals.jpg"
+								<img alt="Shailanchal Uniyal - PerfeKt Pillows" src="img/bg-img/biography/vocals.jpg"
 									style="max-width: 230px !important;">
 							</div>
 
@@ -147,7 +159,7 @@
 
 							<!-- Testimonials Area -->
 							<div class="col-12 col-lg-3" style="margin-bottom: 0px;">
-								<img alt="" src="img/bg-img/biography/drums.jpg"
+								<img alt="Shailanchal Uniyal - PerfeKt Pillows" src="img/bg-img/biography/drums.jpg"
 									style="max-width: 230px !important;">
 							</div>
 
@@ -187,7 +199,7 @@
 
 							<!-- Testimonials Area -->
 							<div class="col-12 col-lg-3" style="margin-bottom: 0px;">
-								<img alt="" src="img/bg-img/biography/guitar.jpg"
+								<img alt="Ganapathy K. R. - PerfeKt Pillows" src="img/bg-img/biography/guitar.jpg"
 									style="max-width: 230px !important;">
 							</div>
 
@@ -219,7 +231,7 @@
 
 							<!-- Testimonials Area -->
 							<div class="col-12 col-lg-3" style="margin-bottom: 0px;">
-								<img alt="" src="img/bg-img/biography/bass.jpg"
+								<img alt="Padmanabhan K. P. - PerfeKt Pillows" src="img/bg-img/biography/bass.jpg"
 									style="max-width: 230px !important;">
 							</div>
 

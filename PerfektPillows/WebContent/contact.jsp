@@ -4,14 +4,26 @@
 <html lang="en">
 
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130516150-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130516150-1');
+</script>
+
     <meta charset="UTF-8">
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-
+<meta name="keywords" content="PerfeKtPillows , PerfeKt Pillows , Bangalore based band,Bengaluru based band,Perfect pillow, Perfect pillows">
+<meta name="description" content="Bangalore based Music band consisting of 4 people - Shailanchal Uniyal , Deepanshu Sharma, Ganapathy K. R., Padmanabhan K. P.">
+<meta name="author" content="Saurabh Sharma">
     <!-- Title -->
-    <title>Perfekt Pillows - Contact Us</title>
+    <title>PerfeKt Pillows - Contact Us</title>
 
      <!-- Favicon -->
     <link rel="icon" href="img/core-img/Logo.png">
@@ -130,8 +142,10 @@
 								<span class="btn oneMusic-btn"
 									style="height: 100%;">
 									FOR BOOKINGS<br><span style="text-decoration: underline;">Call <i class="fa icon-phone-call"></i></span><br>+91
-									9901633880 (Ganapathy) / +91 990201996 (Deepanshu) <br>
+									9901633880 (Ganapathy) <br> +91 990201996 (Deepanshu) <br>
 									<span style="text-decoration: underline;">Email <i class="fa icon-mail"></i></span><br>perfektpillowsmusic@gmail.com
+											<br><a target="_blank" title="follow me on facebook" href="https://www.facebook.com/perfektpillowsmusic/"><img alt="follow us on facebook" src="https://c866088.ssl.cf3.rackcdn.com/assets/facebook30x30.png" border=0 style="padding: 10px;"></a>
+									<a target="_blank" title="follow me on instagram" href="https://www.instagram.com/perfekt.pillows.music/"><img alt="follow us on instagram" src="https://c866088.ssl.cf3.rackcdn.com/assets/instagram30x30.png" border=0 style="padding: 10px;"></a>
 								</span>
 							</div>
 						</div>

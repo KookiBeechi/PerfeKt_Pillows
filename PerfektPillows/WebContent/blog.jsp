@@ -4,14 +4,26 @@
 <html lang="en">
 
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130516150-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130516150-1');
+</script>
+
     <meta charset="UTF-8">
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-
+<meta name="keywords" content="PerfeKtPillows , PerfeKt Pillows , Bangalore based band,Bengaluru based band,Perfect pillow, Perfect pillows">
+<meta name="description" content="Bangalore based Music band consisting of 4 people - Shailanchal Uniyal , Deepanshu Sharma, Ganapathy K. R., Padmanabhan K. P.">
+<meta name="author" content="Saurabh Sharma">
     <!-- Title -->
-    <title>Perfekt Pillows - News</title>
+    <title>PerfeKt Pillows - Blogs</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/Logo.png">
@@ -53,7 +65,7 @@
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
-                            <a href="#"><img src="img/bg-img/blog1.jpg" alt=""></a>
+                            <a href="#"><img src="img/bg-img/events/1st July - Alliance Francaise, World Music Day Festival - Poster.jpg" alt=""></a>
                             <!-- Post Date -->
                             <div class="post-date">
                                 <span>15</span>
@@ -80,7 +92,7 @@
                     <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
-                            <a href="#"><img src="img/bg-img/blog2.jpg" alt=""></a>
+                            <a href="#"><img src="img/bg-img/events/1st June - FANDOM at Gilly's Redefined - Poster.jpg" alt=""></a>
                             <!-- Post Date -->
                             <div class="post-date">
                                 <span>15</span>

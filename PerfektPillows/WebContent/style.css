@@ -14,6 +14,8 @@
 * {
   margin: 0;
   padding: 0; }
+  
+
 
 body {
   font-family: "Archivo Narrow", sans-serif;
@@ -569,14 +571,15 @@ img {
     .single-hero-slide .hero-slides-content h2 {
       position: relative;
       z-index: 1;
-      font-size: 60px;
+      font-size: 50px;
       color: #ffffff;
       margin-bottom: 0;
-      font-weight: 400;
+      font-weight: 300;
       display: block;
       text-transform: capitalize;
-      letter-spacing: 30px;
+      letter-spacing: 20px;
       overflow: hidden; }
+      
       .single-hero-slide .hero-slides-content h2 span {
         position: absolute;
         top: 0;
@@ -1729,6 +1732,24 @@ color: #3B5998;
 	
 	}
 
+  
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: black !important;
+    
+}
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}
+
+.referral{
+	display: none;
+}
 
 /* ====== The End ====== */
 

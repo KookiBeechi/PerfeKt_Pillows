@@ -36,17 +36,16 @@
                             <div class="classynav">
                                 <ul>
                                     <li><a href="index.jsp">Home</a></li>
-                                    <li><a href="albums-store.jsp">Music</a></li>
-                                    <li><a href="biography.jsp">Biography</a></li>
-                                    <li><a href="#">Gallery</a>
-                                        <ul class="dropdown">
-                                            <li><a href="imageGallery.jsp">Image Gallery</a></li>
+                                        <li><a href="#">Music</a>
+                                        <ul class="dropdown">                                   
                                             <li><a href="audioGallery.jsp">Audio Gallery</a></li>
                                             <li><a href="videoGallery.jsp">Video Gallery</a></li>                                      
                                         </ul>
                                     </li>
-                                    <li><a href="event.jsp">Events</a></li>
-                                    <li><a href="blog.jsp">News</a></li>
+                                    <li><a href="biography.jsp">The Band</a></li>
+                                    <li><a href="imageGallery.jsp">Gallery</a></li>
+                                    <li><a href="events.jsp">Events</a></li>
+                               <!--      <li><a href="blog.jsp">News</a></li> -->
                                     <li><a href="contact.jsp">Contact Us</a></li>
                                 </ul>
 

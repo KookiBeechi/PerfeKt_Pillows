@@ -4,15 +4,27 @@
 <html lang="en">
 
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130516150-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130516150-1');
+</script>
+
 <meta charset="UTF-8">
 <meta name="description" content="">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport"
 	content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-
+<meta name="keywords" content="PerfeKtPillows , PerfeKt Pillows , Bangalore based band,Bengaluru based band,Perfect pillow, Perfect pillows">
+<meta name="description" content="Bangalore based Music band consisting of 4 people - Shailanchal Uniyal , Deepanshu Sharma, Ganapathy K. R., Padmanabhan K. P.">
+<meta name="author" content="Saurabh Sharma">
 <!-- Title -->
-<title>Perfekt Pillows - Audio Gallery</title>
+<title>PerfeKt Pillows - Audio Gallery</title>
 
 <!-- Favicon -->
 <link rel="icon" href="img/core-img/Logo.png">
@@ -36,8 +48,7 @@
 	<%@include file="header.jsp"%>
 
 	<!-- ##### Breadcumb Area Start ##### -->
-	<section class="breadcumb-area bg-img bg-overlay"
-		style="background-image: url(img/bg-img/posters/posterAudio.jpg);">
+	<section class="breadcumb-area bg-img bg-overlay" style="background-image: url(img/bg-img/posters/posterAudio.jpg);">
 	<div class="bradcumbContent">
 		<!-- <p>See what’s new</p> -->
 		<h2>Audio Gallery</h2>
@@ -219,27 +230,7 @@
 <a href="https://www.instagram.com/perfekt.pillows.music/" id="link-c268d024bcbd255e5b5cd412dff42b349eca50b7e1c2e134ad3118a8bd5bdff1">@perfekt.pillows.music</a>
 <script src="https://instawidget.net/js/instawidget.js?u=c268d024bcbd255e5b5cd412dff42b349eca50b7e1c2e134ad3118a8bd5bdff1&width=255px"></script>
 </div>
-						<!-- Widget Area -->
-						<div class="single-widget-area mb-30">
-							<div class="widget-title">
-								<h5>Events</h5>
-							</div>
-							<div class="widget-content">
-								<ul>
-									<li><a href="#">Hard Rock Cafe</a></li>
-									<li><a href="#">Blue Frog</a></li>
-									<li><a href="#">Humming Tree</a></li>
-									<li><a href="#">Float</a></li>
-									<li><a href="#">Toit</a></li>
-								</ul>
-							</div>
-						</div>
-
-						<!-- Widget Area -->
-						<div class="single-widget-area mb-30">
-							<a href="#"><img src="img/bg-img/add.gif" alt=""></a>
-						</div>
-
+					
 					</div>
 				</div>
 			</div>

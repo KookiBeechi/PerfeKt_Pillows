@@ -34,9 +34,12 @@
 								<span class="btn oneMusic-btn"
 									style="height: 100%;">
 									FOR BOOKINGS<br><span style="text-decoration: underline;">Call <i class="fa icon-phone-call"></i></span><br>+91
-									9901633880 (Ganapathy) / +91 990201996 (Deepanshu) <br>
+									9901633880 (Ganapathy) <br> +91 990201996 (Deepanshu) <br>
 									<span style="text-decoration: underline;">Email <i class="fa icon-mail"></i></span><br>perfektpillowsmusic@gmail.com
+									<br><a target="_blank" title="follow me on facebook" href="https://www.facebook.com/perfektpillowsmusic/"><img alt="follow me on facebook" src="https://c866088.ssl.cf3.rackcdn.com/assets/facebook30x30.png" border=0 style="padding: 10px;"></a>
+									<a target="_blank" title="follow me on instagram" href="https://www.instagram.com/perfekt.pillows.music/"><img alt="follow me on instagram" src="https://c866088.ssl.cf3.rackcdn.com/assets/instagram30x30.png" border=0 style="padding: 10px;"></a>
 								</span>
+								
 							</div>
 						</div>
 				</div>
@@ -71,10 +74,10 @@
 				<div class="footer-nav">
 					<ul>
 						<li><a href="index.jsp">Home</a></li>
-						<li><a href="albums-store.jsp">Music</a></li>
+						<li><a href="audioGallery.jsp">Music</a></li>
 						<li><a href="biography.jsp">Biography</a></li>
 						<li><a href="imageGallery.jsp">Gallery</a></li>
-						<li><a href="blog.jsp">News</a></li>
+						<li><a href="events.jsp">Events</a></li>
 						<li><a href="contact.jsp">Contact</a></li>
 					</ul>
 				</div>
