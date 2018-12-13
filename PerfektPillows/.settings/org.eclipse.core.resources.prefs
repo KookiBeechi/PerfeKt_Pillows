@@ -1,7 +1,5 @@
 eclipse.preferences.version=1
-encoding//WebContent/albums-store.jsp=UTF-8
 encoding//WebContent/audioGallery.jsp=UTF-8
-encoding//WebContent/biography.jsp=UTF-8
 encoding//WebContent/blog.jsp=UTF-8
 encoding//WebContent/contact.jsp=UTF-8
 encoding//WebContent/elements.jsp=UTF-8
@@ -9,4 +7,5 @@ encoding//WebContent/events.jsp=UTF-8
 encoding//WebContent/footer.jsp=UTF-8
 encoding//WebContent/imageGallery.jsp=UTF-8
 encoding//WebContent/index.jsp=UTF-8
+encoding//WebContent/theBand.jsp=UTF-8
 encoding//WebContent/videoGallery.jsp=UTF-8

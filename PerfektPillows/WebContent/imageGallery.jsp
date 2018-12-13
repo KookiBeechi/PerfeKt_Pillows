@@ -57,28 +57,28 @@
     <!-- ##### Events Area Start ##### -->
 	<section class="events-area section-padding-100">
 	<div class="container">
-	<div class="section-heading style-2">
-					<h2 style="font-size: 20px; color: #FF7C66;">Fandom-2018</h2>
-	</div>
-		<div id="flickrembed_75"></div>
-		<div
-			style="position: absolute; top: -20px; display: block; text-align: center; z-index: -1;">
+		<div class="imageAlbum">
+			<h2>Hard Rock Cafe - September, 2018</h2>
+			
+			<div id="flickrembed_76"></div>
+			<div style="position: absolute; top: -20px; display: block; text-align: center; z-index: -1;"></div>
+			<script	src='https://flickrembed.com/embed_v2.js.rand.php?container=flickrembed_76&source=flickr&layout=responsive&input=72157698715761700&sort=0&by=album&theme=tiles_nested&scale=fit&speed=3000&limit=100&skin=default-light&autoplay=true'></script>
+			<script type="text/javascript">function showpics(){var a=$("#box").val();$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags="+a+"&tagmode=any&format=json&jsoncallback=?",function(a){$("#images").hide().html(a).fadeIn("fast"),$.each(a.items,function(a,e){$("<img/>").attr("src",e.media.m).appendTo("#images")})})}</script>
 		</div>
-		<script	src='https://flickrembed.com/embed_v2.js.rand.php?container=flickrembed_75&source=flickr&layout=responsive&input=72157704112761154&sort=0&by=album&theme=tiles_nested&scale=fit&speed=3000&limit=100&skin=default-light&autoplay=true'></script>
-		<script type="text/javascript">function showpics(){var a=$("#box").val();$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags="+a+"&tagmode=any&format=json&jsoncallback=?",function(a){$("#images").hide().html(a).fadeIn("fast"),$.each(a.items,function(a,e){$("<img/>").attr("src",e.media.m).appendTo("#images")})})}</script>
-		
-		
-		<div class="section-heading style-2">
-					<h2 style="font-size: 20px; color: #FF7C66; padding-top: 20px;">Hard Rock Cafe-2018</h2>
-	</div>
-		<div id="flickrembed_76"></div>
-		<div
-			style="position: absolute; top: -20px; display: block; text-align: center; z-index: -1;">
+
+		<div class="imageAlbum">
+		<h2>Fandom - June, 2018</h2>
+			
+			<div id="flickrembed_42"></div>
+			<div style="position: absolute; top: -70px; display: block; text-align: center; z-index: -1;"></div>
+			<script	src='https://flickrembed.com/embed_v2.js.rand.php?container=flickrembed_42&source=flickr&layout=responsive&input=72157704607499455&sort=0&by=album&theme=tiles_nested&scale=fill&speed=3000&limit=99&skin=alexis-light&autoplay=true'></script>
+			<script type="text/javascript">function showpics(){var a=$("#box").val();$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags="+a+"&tagmode=any&format=json&jsoncallback=?",function(a){$("#images").hide().html(a).fadeIn("fast"),$.each(a.items,function(a,e){$("<img/>").attr("src",e.media.m).appendTo("#images")})})}</script>
 		</div>
-		<script src='https://flickrembed.com/embed_v2.js.rand.php?container=flickrembed_76&source=flickr&layout=responsive&input=72157676376069608&sort=0&by=album&theme=tiles_nested&scale=fit&speed=3000&limit=100&skin=default-light&autoplay=true'></script>
-		<script type="text/javascript">function showpics(){var a=$("#box").val();$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags="+a+"&tagmode=any&format=json&jsoncallback=?",function(a){$("#images").hide().html(a).fadeIn("fast"),$.each(a.items,function(a,e){$("<img/>").attr("src",e.media.m).appendTo("#images")})})}</script>
-	
+
+
 	</div>
+
+
 
 	</section>
 

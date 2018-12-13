@@ -42,7 +42,7 @@
                                             <li><a href="videoGallery.jsp">Video Gallery</a></li>                                      
                                         </ul>
                                     </li>
-                                    <li><a href="biography.jsp">The Band</a></li>
+                                    <li><a href="theBand.jsp">The Band</a></li>
                                     <li><a href="imageGallery.jsp">Gallery</a></li>
                                     <li><a href="events.jsp">Events</a></li>
                                <!--      <li><a href="blog.jsp">News</a></li> -->

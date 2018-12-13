@@ -142,10 +142,12 @@
 								<span class="btn oneMusic-btn"
 									style="height: 100%;">
 									FOR BOOKINGS<br><span style="text-decoration: underline;">Call <i class="fa icon-phone-call"></i></span><br>+91
-									9901633880 (Ganapathy) <br> +91 990201996 (Deepanshu) <br>
-									<span style="text-decoration: underline;">Email <i class="fa icon-mail"></i></span><br>perfektpillowsmusic@gmail.com
-											<br><a target="_blank" title="follow me on facebook" href="https://www.facebook.com/perfektpillowsmusic/"><img alt="follow us on facebook" src="https://c866088.ssl.cf3.rackcdn.com/assets/facebook30x30.png" border=0 style="padding: 10px;"></a>
-									<a target="_blank" title="follow me on instagram" href="https://www.instagram.com/perfekt.pillows.music/"><img alt="follow us on instagram" src="https://c866088.ssl.cf3.rackcdn.com/assets/instagram30x30.png" border=0 style="padding: 10px;"></a>
+									9901633880 (Ganapathy) <br> +91 9902019996 (Deepanshu) <br>
+									<span style="text-decoration: underline;">Email <i class="fa icon-mail"></i></span><br><span style="text-transform: lowercase;">perfektpillowsmusic@gmail.com</span>
+							    <br><a target="_blank" title="follow us on Facebook" href="https://www.facebook.com/perfektpillowsmusic/"><img alt="follow us on facebook" src="https://c866088.ssl.cf3.rackcdn.com/assets/facebook30x30.png" border=0 style="padding: 4px;"></a>
+									<a target="_blank" title="follow us on Instagram" href="https://www.instagram.com/perfekt.pillows.music/"><img alt="follow us on instagram" src="https://img.icons8.com/color/40/000000/instagram-new.png" border=0 style="padding: 4px;"></a>
+									<a target="_blank" title="follow us on YouTube" href="https://www.youtube.com/channel/UC6VcSJ6e_54PybF1ifcmrQg"><img alt="follow us on instagram" src="http://icons.iconarchive.com/icons/dakirby309/simply-styled/48/YouTube-icon.png" border=0 style="padding: 4px;"></a>
+									<a target="_blank" title="follow us on SoundCloud" href="https://soundcloud.com/user-193421255"><img alt="follow us on instagram" src="http://icons.iconarchive.com/icons/xenatt/minimalism/48/App-SoundCloud-icon.png" border=0 style="padding: 4px;"></a>
 								</span>
 							</div>
 						</div>
@@ -173,11 +175,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                 <div class="col-12 col-md-6">
                     <div class="footer-nav">
                         <ul>
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">Albums</a></li>
-                            <li><a href="#">Events</a></li>
-                            <li><a href="#">News</a></li>
-                            <li><a href="#">Contact</a></li>
+                        <li><a href="index.jsp">Home</a></li>
+						<li><a href="audioGallery.jsp">Music</a></li>
+						<li><a href="theBand.jsp">The Band</a></li>
+						<li><a href="imageGallery.jsp">Gallery</a></li>
+						<li><a href="events.jsp">Events</a></li>
+						<li><a href="contact.jsp">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>

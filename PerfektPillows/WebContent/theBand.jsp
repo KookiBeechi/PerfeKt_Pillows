@@ -211,7 +211,7 @@
 										Guitars - <span class="name">Ganapathy K. R.</span><br> <br>Hails from Mumbai.
 										Loves music theory and has range of influences-John Petrucci,
 										Andy Timmons, John Frusciante, George Harrison. <br> <br>Favourite
-										Mode-Lydian<br>
+										Mode - Lydian<br>
 										<div class="contact-social-info mt-30"
 											style="margin-bottom: -10px;">
 											<a href="https://www.facebook.com/ganapathy.kr.7" data-toggle="tooltip"  target="_blank" data-placement="top"
@@ -243,7 +243,7 @@
 										Bass - <span class="name">Padmanabhan K. P.</span><br> <br> Hails from
 										Ernakulam. KP is a multi-instrumentalist and a trained
 										Carnatic singer. Loves to play the kalyani raga on the bass. <br>
-										<br> Favourite Bassist-Flea<br>
+										<br> Favourite Bassist - Flea<br>
 
 										<div class="contact-social-info mt-30"
 											style="margin-bottom: -10px;">

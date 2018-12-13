@@ -5,13 +5,16 @@
 
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130516150-1"></script>
+<script async
+	src="https://www.googletagmanager.com/gtag/js?id=UA-130516150-1"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+	window.dataLayer = window.dataLayer || [];
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
 
-  gtag('config', 'UA-130516150-1');
+	gtag('config', 'UA-130516150-1');
 </script>
 
 <meta charset="UTF-8">
@@ -57,86 +60,116 @@
 	<!-- ##### Events Area Start ##### -->
 	<section class="events-area section-padding-100">
 	<div class="container">
-<!-- Grid row -->
-<div class="row">
+		<!-- Grid row -->
+		<div class="row">
 
-  <!-- Grid column -->
-  <div class="col-lg-4 col-md-12 mb-4">
+			<!-- Grid column -->
+			<div class="col-lg-4 col-md-12 mb-4">
 
-    <!--Modal: Name-->
-    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog modal-lg" role="document">
+				<!--Modal: Name-->
+				<div class="modal fade" id="modal1" tabindex="-1" role="dialog"
+					aria-labelledby="myModalLabel" aria-hidden="true">
+					<div class="modal-dialog modal-lg" role="document">
 
-        <!--Content-->
-        <div class="modal-content">
+						<!--Content-->
+						<div class="modal-content">
 
-          <!--Body-->
-          <div class="modal-body mb-0 p-0">
+							<!--Body-->
+							<div class="modal-body mb-0 p-0">
+								<div
+									class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+									<iframe class="embed-responsive-item"
+										src="https://www.youtube.com/embed/jjb2FsnWsWo"
+										allowfullscreen></iframe>
+								</div>
 
-            <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jjb2FsnWsWo"
-                allowfullscreen></iframe>
-            </div>
 
-          </div>
+							</div>
 
-          <!--Footer-->
-          <div class="modal-footer justify-content-center">
-               <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
-          </div>
+							<!--Footer-->
+							<div class="modal-footer justify-content-center">
+								<button type="button"
+									class="btn btn-outline-primary btn-rounded btn-md ml-4 end end"
+									data-dismiss="modal">Close</button>
+							</div>
 
-        </div>
-        <!--/.Content-->
+						</div>
+						<!--/.Content-->
 
-      </div>
-    </div>
-    <!--Modal: Name-->
+					</div>
+				</div>
+				<!--Modal: Name-->
+				<div class="single-album-area">
+					<div class="album-thumb">
+							<img class="img-fluid z-depth-1"
+								src="http://i3.ytimg.com/vi/jjb2FsnWsWo/hqdefault.jpg"
+								alt="video" data-toggle="modal" data-target="#modal1">
+							<div class="play-icon"><a class="video--play--btn img-fluid z-depth-1" data-toggle="modal" data-target="#modal1" ><span class="icon-play-button"></span></a></div>
+					</div>
+					<div class="album-info">
+                            <h5>Zen Song</h5>                          
+                            <p>PerfeKt Pillows Originals</p>
+                        </div>
+					
+				</div>
+			</div>
+			<!-- Grid column -->
 
-    <a><img class="img-fluid z-depth-1" src="http://i3.ytimg.com/vi/jjb2FsnWsWo/hqdefault.jpg" alt="video"
-        data-toggle="modal" data-target="#modal1"></a>
+			<!-- Grid column -->
+			<div class="col-lg-4 col-md-6 mb-4">
 
-  </div>
-  <!-- Grid column -->
+				<!--Modal: Name-->
+				<div class="modal fade" id="modal2" tabindex="-1" role="dialog"
+					aria-labelledby="myModalLabel" aria-hidden="true">
+					<div class="modal-dialog modal-lg" role="document">
 
-  <!-- Grid column -->
-  <div class="col-lg-4 col-md-6 mb-4">
+						<!--Content-->
+						<div class="modal-content">
 
-    <!--Modal: Name-->
-    <div class="modal fade" id="modal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-dialog modal-lg" role="document">
+							<!--Body-->
+							<div class="modal-body mb-0 p-0">
 
-        <!--Content-->
-        <div class="modal-content">
+								<div
+									class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+									<iframe class="embed-responsive-item"
+										src="https://www.youtube.com/embed/E5GCJdZeLjE"
+										allowfullscreen></iframe>
+								</div>
 
-          <!--Body-->
-          <div class="modal-body mb-0 p-0">
+							</div>
 
-            <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/E5GCJdZeLjE"
-                allowfullscreen></iframe>
-            </div>
+							<!--Footer-->
+							<div class="modal-footer justify-content-center">
+								<button type="button"
+									class="btn btn-outline-primary btn-rounded btn-md ml-4 end"
+									data-dismiss="modal">Close</button>
+							</div>
 
-          </div>
+						</div>
+						<!--/.Content-->
 
-          <!--Footer-->
-          <div class="modal-footer justify-content-center">
-                 <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
-          </div>
+					</div>
+				</div>
+				<!--Modal: Name-->
+				<div class="single-album-area">
+					<div class="album-thumb">
+							<img class="img-fluid z-depth-1"
+								src="http://i3.ytimg.com/vi/E5GCJdZeLjE/hqdefault.jpg"
+								alt="video" data-toggle="modal" data-target="#modal2">
+							<div class="play-icon"><a class="video--play--btn img-fluid z-depth-1" data-toggle="modal" data-target="#modal2" >
+							<span class="icon-play-button"></span></a></div>
+					</div>
+					<div class="album-info">
+                            <h5>Reason</h5>                          
+                            <p>PerfeKt Pillows Originals</p>
+                        </div>
+					
+				</div>
 
-        </div>
-        <!--/.Content-->
+			</div>
+			<!-- Grid column -->
 
-      </div>
-    </div>
-    <!--Modal: Name-->
-
-    <a><img class="img-fluid z-depth-1" src="http://i3.ytimg.com/vi/E5GCJdZeLjE/hqdefault.jpg" alt="video"
-        data-toggle="modal" data-target="#modal2"></a>
-
-  </div>
-  <!-- Grid column -->
-
-  <!-- Grid column -->
+			<!-- Grid column -->
 			<div class="col-lg-4 col-md-6 mb-4">
 
 				<!--Modal: Name-->
@@ -162,7 +195,7 @@
 							<!--Footer-->
 							<div class="modal-footer justify-content-center">
 								<button type="button"
-									class="btn btn-outline-primary btn-rounded btn-md ml-4"
+									class="btn btn-outline-primary btn-rounded btn-md ml-4 end"
 									data-dismiss="modal">Close</button>
 							</div>
 
@@ -172,10 +205,22 @@
 					</div>
 				</div>
 				<!--Modal: Name-->
-
-				<a><img class="img-fluid z-depth-1"
-					src="http://i3.ytimg.com/vi/ljGLu7G9GcM/hqdefault.jpg"
-					alt="video" data-toggle="modal" data-target="#modal3"></a>
+					
+				<div class="single-album-area">
+					<div class="album-thumb">
+							<img class="img-fluid z-depth-1"
+								src="http://i3.ytimg.com/vi/ljGLu7G9GcM/hqdefault.jpg"
+								alt="video" data-toggle="modal" data-target="#modal3">
+							<div class="play-icon"><a class="video--play--btn img-fluid z-depth-1" data-toggle="modal" data-target="#modal3" >
+							<span class="icon-play-button"></span></a></div>
+					</div>
+					<div class="album-info">
+                            <h5>One</h5>                          
+                            <p>PerfeKt Pillows Originals</p>
+                        </div>
+					
+				</div>
+			
 
 			</div>
 			<!-- Grid column -->
@@ -205,7 +250,7 @@
 							<!--Footer-->
 							<div class="modal-footer justify-content-center">
 								<button type="button"
-									class="btn btn-outline-primary btn-rounded btn-md ml-4"
+									class="btn btn-outline-primary btn-rounded btn-md ml-4 end"
 									data-dismiss="modal">Close</button>
 							</div>
 
@@ -215,13 +260,25 @@
 					</div>
 				</div>
 				<!--Modal: Name-->
-
-				<a><img class="img-fluid z-depth-1"
-					src="http://i3.ytimg.com/vi/lKPFQNbrJDM/hqdefault.jpg"
-					alt="video" data-toggle="modal" data-target="#modal4"></a>
+					
+					<div class="single-album-area">
+					<div class="album-thumb">
+							<img class="img-fluid z-depth-1"
+								src="http://i3.ytimg.com/vi/lKPFQNbrJDM/hqdefault.jpg"
+								alt="video" data-toggle="modal" data-target="#modal4">
+							<div class="play-icon"><a class="video--play--btn img-fluid z-depth-1" data-toggle="modal" data-target="#modal4" >
+							<span class="icon-play-button"></span></a></div>
+					</div>
+					<div class="album-info">
+                            <h5>Just Saying</h5>                          
+                            <p>PerfeKt Pillows Originals</p>
+                        </div>
+					
+				</div>
 
 			</div>
 			<!-- Grid column -->
+
 			<!-- Grid column -->
 			<div class="col-lg-4 col-md-6 mb-4">
 
@@ -239,7 +296,7 @@
 								<div
 									class="embed-responsive embed-responsive-16by9 z-depth-1-half">
 									<iframe class="embed-responsive-item"
-										src="https://www.youtube.com/embed/sHsSJNLUQ7s"
+										src="https://www.youtube.com/embed/_kGnYCyBq0k"
 										allowfullscreen></iframe>
 								</div>
 
@@ -248,7 +305,7 @@
 							<!--Footer-->
 							<div class="modal-footer justify-content-center">
 								<button type="button"
-									class="btn btn-outline-primary btn-rounded btn-md ml-4"
+									class="btn btn-outline-primary btn-rounded btn-md ml-4 end"
 									data-dismiss="modal">Close</button>
 							</div>
 
@@ -259,11 +316,25 @@
 				</div>
 				<!--Modal: Name-->
 
-				<a><img class="img-fluid z-depth-1"
-					src="http://i3.ytimg.com/vi/sHsSJNLUQ7s/hqdefault.jpg"
-					alt="video" data-toggle="modal" data-target="#modal5"></a>
+					
+					
+					<div class="single-album-area">
+					<div class="album-thumb">
+							<img class="img-fluid z-depth-1"
+								src="http://i3.ytimg.com/vi/_kGnYCyBq0k/hqdefault.jpg"
+								alt="video" data-toggle="modal" data-target="#modal5">
+							<div class="play-icon"><a class="video--play--btn img-fluid z-depth-1" data-toggle="modal" data-target="#modal5" >
+							<span class="icon-play-button"></span></a></div>
+					</div>
+					<div class="album-info">
+                            <h5>Hopeless</h5>                          
+                            <p>PerfeKt Pillows Originals</p>
+                        </div>
+					
+				</div>
 
 			</div>
+
 			<!-- Grid column -->
 			<!-- Grid column -->
 			<div class="col-lg-4 col-md-6 mb-4">
@@ -291,7 +362,7 @@
 							<!--Footer-->
 							<div class="modal-footer justify-content-center">
 								<button type="button"
-									class="btn btn-outline-primary btn-rounded btn-md ml-4"
+									class="btn btn-outline-primary btn-rounded btn-md ml-4 end"
 									data-dismiss="modal">Close</button>
 							</div>
 
@@ -302,20 +373,143 @@
 				</div>
 				<!--Modal: Name-->
 
-				<a><img class="img-fluid z-depth-1"
-					src="http://i3.ytimg.com/vi/35e9nI-btgg/hqdefault.jpg"
-					alt="video" data-toggle="modal" data-target="#modal6"></a>
+			
+			<div class="single-album-area">
+					<div class="album-thumb">
+							<img class="img-fluid z-depth-1"
+								src="http://i3.ytimg.com/vi/35e9nI-btgg/hqdefault.jpg"
+								alt="video" data-toggle="modal" data-target="#modal6">
+							<div class="play-icon"><a class="video--play--btn img-fluid z-depth-1" data-toggle="modal" data-target="#modal6" >
+							<span class="icon-play-button"></span></a></div>
+					</div>
+					<div class="album-info">
+                            <h5>Settle Down</h5>                          
+                            <p>PerfeKt Pillows Originals</p>
+                        </div>
+					
+				</div>
 
 			</div>
 			<!-- Grid column -->
 
-</div>
-<!-- Grid row -->
+
+			<!-- Grid column -->
+			<div class="col-lg-4 col-md-6 mb-4">
+
+				<!--Modal: Name-->
+				<div class="modal fade" id="modal7" tabindex="-1" role="dialog"
+					aria-labelledby="myModalLabel" aria-hidden="true">
+					<div class="modal-dialog modal-lg" role="document">
+
+						<!--Content-->
+						<div class="modal-content">
+
+							<!--Body-->
+							<div class="modal-body mb-0 p-0">
+
+								<div
+									class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+									<iframe class="embed-responsive-item"
+										src="https://www.youtube.com/embed/dwykK4U-2NY"
+										allowfullscreen></iframe>
+								</div>
+
+							</div>
+
+							<!--Footer-->
+							<div class="modal-footer justify-content-center">
+								<button type="button"
+									class="btn btn-outline-primary btn-rounded btn-md ml-4 end"
+									data-dismiss="modal">Close</button>
+							</div>
+
+						</div>
+						<!--/.Content-->
+
+					</div>
+				</div>
+				<!--Modal: Name-->
+
+				
+					<div class="single-album-area">
+					<div class="album-thumb">
+							<img class="img-fluid z-depth-1"
+								src="http://i3.ytimg.com/vi/dwykK4U-2NY/hqdefault.jpg"
+								alt="video" data-toggle="modal" data-target="#modal7">
+							<div class="play-icon"><a class="video--play--btn img-fluid z-depth-1" data-toggle="modal" data-target="#modal7" >
+							<span class="icon-play-button"></span></a></div>
+					</div>
+					<div class="album-info">
+                            <h5>Cranberry Jam</h5>                          
+                            <p>PerfeKt Pillows Originals</p>
+                        </div>
+					
+				</div>
+
+			</div>
+			<!-- Grid column -->
+			<!-- Grid column -->
+			<div class="col-lg-4 col-md-6 mb-4">
+
+				<!--Modal: Name-->
+				<div class="modal fade" id="modal8" tabindex="-1" role="dialog"
+					aria-labelledby="myModalLabel" aria-hidden="true">
+					<div class="modal-dialog modal-lg" role="document">
+
+						<!--Content-->
+						<div class="modal-content">
+
+							<!--Body-->
+							<div class="modal-body mb-0 p-0">
+
+								<div
+									class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+									<iframe class="embed-responsive-item"
+										src="https://www.youtube.com/embed/sHsSJNLUQ7s"
+										allowfullscreen></iframe>
+								</div>
+
+							</div>
+
+							<!--Footer-->
+							<div class="modal-footer justify-content-center">
+								<button type="button"
+									class="btn btn-outline-primary btn-rounded btn-md ml-4 end"
+									data-dismiss="modal">Close</button>
+							</div>
+
+						</div>
+						<!--/.Content-->
+
+					</div>
+				</div>
+				<!--Modal: Name-->
+
+					
+			<div class="single-album-area">
+					<div class="album-thumb">
+							<img class="img-fluid z-depth-1"
+								src="http://i3.ytimg.com/vi/sHsSJNLUQ7s/hqdefault.jpg"
+								alt="video" data-toggle="modal" data-target="#modal8">
+							<div class="play-icon"><a class="video--play--btn img-fluid z-depth-1" data-toggle="modal" data-target="#modal8" >
+							<span class="icon-play-button"></span></a></div>
+					</div>
+					<div class="album-info">
+                            <h5>Cranberry Jam - Live </h5>                          
+                            <p>PerfeKt Pillows Originals</p>
+                        </div>
+					
+				</div>
+
+			</div>
+
+		</div>
+		<!-- Grid row -->
 	</div>
 	</section>
 	<!-- ##### Events Area End ##### -->
 
-<%@include file="footer.jsp"%>
+	<%@include file="footer.jsp"%>
 
 	<!-- ##### All Javascript Script ##### -->
 	<!-- jQuery-2.2.4 js -->
@@ -329,20 +523,50 @@
 	<!-- Active js -->
 	<script src="js/active.js"></script>
 	<script type="text/javascript">
-	$('#modal1').on('hidden.bs.modal', function (e) {
-		  // do something...
-		  $('#modal1 iframe').attr("src", $("#modal1 iframe").attr("src"));
+		$('#modal1').on('hidden.bs.modal', function(e) {
+			// do something...
+			$('#modal1 iframe').attr("src", $("#modal1 iframe").attr("src"));
+		});
+		
+		$('#modal2').on('hidden.bs.modal', function(e) {
+			// do something...
+			$('#modal2 iframe').attr("src", $("#modal2 iframe").attr("src"));
+		});
+		
+		$('#modal3').on('hidden.bs.modal', function(e) {
+			// do something...
+			$('#modal3 iframe').attr("src", $("#modal3 iframe").attr("src"));
 		});
 
-		$('#modal6').on('hidden.bs.modal', function (e) {
-		  // do something...
-		  $('#modal6 iframe').attr("src", $("#modal6 iframe").attr("src"));
+
+		$('#modal4').on('hidden.bs.modal', function(e) {
+			// do something...
+			$('#modal4 iframe').attr("src", $("#modal4 iframe").attr("src"));
+		});
+		
+		$('#modal5').on('hidden.bs.modal', function(e) {
+			// do something...
+			$('#modal5 iframe').attr("src", $("#modal5 iframe").attr("src"));
 		});
 
-		$('#modal4').on('hidden.bs.modal', function (e) {
-		  // do something...
-		  $('#modal4 iframe').attr("src", $("#modal4 iframe").attr("src"));
+
+		$('#modal6').on('hidden.bs.modal', function(e) {
+			// do something...
+			$('#modal6 iframe').attr("src", $("#modal6 iframe").attr("src"));
 		});
+	
+		$('#modal7').on('hidden.bs.modal', function(e) {
+			// do something...
+			$('#modal7 iframe').attr("src", $("#modal7 iframe").attr("src"));
+		});
+	
+		$('#modal8').on('hidden.bs.modal', function(e) {
+			// do something...
+			$('#modal8 iframe').attr("src", $("#modal8 iframe").attr("src"));
+		});
+	
+	
+		
 	</script>
 
 </body>

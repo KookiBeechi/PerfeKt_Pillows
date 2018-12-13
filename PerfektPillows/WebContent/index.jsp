@@ -23,7 +23,7 @@
 	<meta name="description" content="Bangalore based Music band consisting of 4 people - Shailanchal Uniyal , Deepanshu Sharma, Ganapathy K. R., Padmanabhan K. P.">
 	<meta name="author" content="Saurabh Sharma">
     <!-- Title -->
-    <title>PerfeKt Pillows</title>
+    <title>PerfeKt Pillows - Official Website</title>
 <link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/Logo.png">
@@ -60,7 +60,7 @@
                             <div class="hero-slides-content text-center">
                                <!-- <center> <h6 data-animation="fadeInUp" data-delay="100ms"><img src="img/core-img/InvertLogo.png" alt="" style="width:8%;"></h6></center> -->
                                 <h2 data-animation="fadeInUp" data-delay="300ms">PerfeKt Pillows</h2>
-                                <a data-animation="fadeInUp" data-delay="500ms" href="biography.jsp" class="btn oneMusic-btn mt-50">Know About Us <i class="fa fa-angle-double-right"></i></a>
+                                <a data-animation="fadeInUp" data-delay="500ms" href="theBand.jsp" class="btn oneMusic-btn mt-50">Know About Us <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -130,11 +130,11 @@
                   <!-- Newsletter Area -->
                 <div class="col-12 col-lg-7">
                     <div class="bio-area">                      
-                        <div class=" bio">
+                        <div class="bio">
                            4 people, with completely different musical background and influences come together to form a band aiming to create a unique sound - that is PerfeKt Pillows \m/.
 With a common interest in creating original compositions, the band has written more than 10 OCs in the past 2 years. And true to their varied influences, each of the original has a different feel and mood. A highlight for the band was opening the Season 6 of Music Mojo Kappa TV in August 2018. Apart from that, the band has played in most of the revered venues in Bangalore - Hard Rock Cafe, Opus, Fandom, Take5, Humming Tree to name a few.
 The band aims to continue to write more originals and also supplement them with their renditions of the songs which inspired them.
-                      <br> <a href="biography.jsp" ><button class="btn oneMusic-btn mt-30" type="submit" style="margin-top: 10px;">Biography <i class="fa fa-angle-double-right"></i></button></a>
+                      <br> <a href="theBand.jsp" ><button class="btn oneMusic-btn mt-30" type="submit" style="margin-top: 10px;">Meet The Band <i class="fa fa-angle-double-right"></i></button></a>
                         </div>
                         
                     </div>
@@ -183,6 +183,7 @@ The band aims to continue to write more originals and also supplement them with 
                 <!-- Single Album Area -->
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="single-album-area wow fadeInUp" data-wow-delay="100ms">
+                        <a href="featuredVideo1.jsp" class="video--play--btn">
                         <div class="album-thumb">
                             <img src="https://img.youtube.com/vi/E5GCJdZeLjE/0.jpg" alt="perfeKt Pillows Reason">
                             <!-- Album Price -->
@@ -191,9 +192,10 @@ The band aims to continue to write more originals and also supplement them with 
                             </div>
                             <!-- Play Icon -->
                             <div class="play-icon">
-                                <a href="featuredVideo1.jsp" class="video--play--btn"><span class="icon-play-button"></span></a>
+                               <a href="featuredVideo1.jsp" class="video--play--btn"> <span class="icon-play-button"></span></a>
                             </div>
-                        </div>
+                        </div></a>
+                        
                         <div class="album-info">
                             <a href="#">
                                 <h5>Reason</h5>
@@ -206,6 +208,7 @@ The band aims to continue to write more originals and also supplement them with 
    <!-- Single Album Area -->
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="single-album-area wow fadeInUp" data-wow-delay="100ms">
+                         <a href="featuredVideo2.jsp" class="video--play--btn">
                         <div class="album-thumb">
                             <img src="https://img.youtube.com/vi/jjb2FsnWsWo/0.jpg" alt="perfeKt Pillows Zen song">
                             <!-- Album Price -->
@@ -216,7 +219,7 @@ The band aims to continue to write more originals and also supplement them with 
                             <div class="play-icon">
                                 <a href="featuredVideo2.jsp" class="video--play--btn"><span class="icon-play-button"></span></a>
                             </div>
-                        </div>
+                        </div></a>
                         <div class="album-info">
                             <a href="#">
                                 <h5>Zen Song</h5>
@@ -230,6 +233,7 @@ The band aims to continue to write more originals and also supplement them with 
    <!-- Single Album Area -->
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="single-album-area wow fadeInUp" data-wow-delay="100ms">
+                     <a href="featuredVideo3.jsp" class="video--play--btn">
                         <div class="album-thumb">
                             <img src="https://img.youtube.com/vi/dwykK4U-2NY/0.jpg" alt="perfeKt Pillows Cranberry Jam">
                             <!-- Album Price -->
@@ -240,7 +244,7 @@ The band aims to continue to write more originals and also supplement them with 
                             <div class="play-icon">
                                 <a href="featuredVideo3.jsp" class="video--play--btn"><span class="icon-play-button"></span></a>
                             </div>
-                        </div>
+                        </div></a>
                         <div class="album-info">
                             <a href="#">
                                 <h5>Cranberry Jam</h5>

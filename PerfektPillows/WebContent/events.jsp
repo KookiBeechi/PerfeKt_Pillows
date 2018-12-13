@@ -67,7 +67,7 @@
                    
                         <div class="blog-post-thumb mt-30">
                         <div class="fill">
-                            <a href="#"><img src="img/bg-img/events/4th January - Strawberry Fields. NLSIU - Poster.jpg" alt="PerfeKt Pillows at Strawberry Fields. NLSIU"></a>
+                            <a href="http://www.strawberryfields.in/" target="_blank"><img src="img/bg-img/events/4th January - Strawberry Fields. NLSIU - Poster.jpg" alt="PerfeKt Pillows at Strawberry Fields. NLSIU"></a>
                          </div>  
                             <!-- Post Date -->
                             <div class="post-date">
@@ -78,7 +78,7 @@
                         <!-- Blog Content -->
                         <div class="blog-content">
                             <!-- Post Title -->
-                            <a href="#" class="post-title">Strawberry Fields | 4th January, 2019</a>                           
+                            <a href="http://www.strawberryfields.in/"  target="_blank" class="post-title">Strawberry Fields | 4th January, 2019</a>                           
                         </div>
                        
                     </div>
@@ -88,7 +88,7 @@
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
                             <div class="fill">
-                            <a href="#"><img src="img/bg-img/events/30th September - Hard Rock Cafe, Bengaluru -Poster.jpg" alt="PerfeKt Pillows at Hard Rock Cafe"></a>
+                            <a href="https://www.facebook.com/events/481466592336793/" target="_blank"><img src="img/bg-img/events/30th September - Hard Rock Cafe, Bengaluru -Poster.jpg" alt="PerfeKt Pillows at Hard Rock Cafe"></a>
                          </div> 
                             <!-- Post Date -->
                             <div class="post-date">
@@ -100,7 +100,7 @@
                         <!-- Blog Content -->
                         <div class="blog-content">
                             <!-- Post Title -->
-                            <a href="#" class="post-title">Hard Rock Cafe | 30th September</a>
+                            <a href="https://www.facebook.com/events/481466592336793/" target="_blank" class="post-title">Hard Rock Cafe | 30th September</a>
                             
                         </div>
                     </div>
@@ -110,7 +110,7 @@
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
                             <div class="fill">
-                            <a href="#"><img src="img/bg-img/events/1st September - Kappa TV Music Mojo Season 6 - Poster.jpg" alt="PerfeKt Pillows at Kappa TV Music Mojo Season 6"></a>
+                            <a href="https://www.youtube.com/playlist?list=PLDa8YieoG1-Qlib3FBznMOXFctRauD-hC" target="_blank"	><img src="img/bg-img/events/1st September - Kappa TV Music Mojo Season 6 - Poster.jpg" alt="PerfeKt Pillows at Kappa TV Music Mojo Season 6"></a>
                          </div> 
                             <!-- Post Date -->
                             <div class="post-date">
@@ -122,7 +122,7 @@
                         <!-- Blog Content -->
                         <div class="blog-content">
                             <!-- Post Title -->
-                            <a href="#" class="post-title">Kappa TV Music Mojo Season 6 | 01 September, 2018</a>
+                            <a href="https://www.youtube.com/playlist?list=PLDa8YieoG1-Qlib3FBznMOXFctRauD-hC" target="_blank" class="post-title">Kappa TV Music Mojo Season 6 | 01 September, 2018</a>
                         </div>
                     </div>
 
@@ -131,7 +131,7 @@
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
                             <div class="fill">
-                            <a href="#"><img src="img/bg-img/events/1st July - Alliance Francaise, World Music Day Festival - Poster.jpg" alt="PerfeKt Pillows at Alliance Francaise, World Music Day Festival"></a>
+                            <a href="http://bangalore.afindia.org/events/fete-de-la-musique-2017-world-music-day-2017-2/" target="_blank"	><img src="img/bg-img/events/1st July - Alliance Francaise, World Music Day Festival - Poster.jpg" alt="PerfeKt Pillows at Alliance Francaise, World Music Day Festival" ></a>
                          </div> 
                             <!-- Post Date -->
                             <div class="post-date">
@@ -143,7 +143,7 @@
                         <!-- Blog Content -->
                         <div class="blog-content">
                             <!-- Post Title -->
-                            <a href="#" class="post-title">Alliance Francaise, World Music Day Festival | 01 July, 2018</a>
+                            <a href="http://bangalore.afindia.org/events/fete-de-la-musique-2017-world-music-day-2017-2/" class="post-title" target="_blank">Alliance Francaise, World Music Day Festival | 01 July, 2018</a>
                         </div>
                     </div>
                     
@@ -152,7 +152,7 @@
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
                             <div class="fill">
-                            <a href="#"><img src="img/bg-img/events/1st June - FANDOM at Gilly's Redefined - Poster.jpg" alt="PerfeKt Pillows at FANDOM at Gilly's Redefined"></a>
+                            <a href="https://www.youtube.com/watch?v=sHsSJNLUQ7s" target="_blank"><img src="img/bg-img/events/1st June - FANDOM at Gilly's Redefined - Poster.jpg" alt="PerfeKt Pillows at FANDOM at Gilly's Redefined"></a>
                          </div> 
                             <!-- Post Date -->
                             <div class="post-date">
@@ -164,7 +164,7 @@
                         <!-- Blog Content -->
                         <div class="blog-content">
                             <!-- Post Title -->
-                            <a href="#" class="post-title">FANDOM at Gilly's Redefined | 01 June, 2018</a>
+                            <a href="https://www.youtube.com/watch?v=sHsSJNLUQ7s" target="_blank" class="post-title">FANDOM at Gilly's Redefined | 01 June, 2018</a>
                         </div>
                     </div>
                     
@@ -176,7 +176,7 @@
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
                             <div class="fill">
-                            <a href="#"><img src="img/bg-img/events/24th March - Straight Up - Poster.jpg" alt="PerfeKt Pillows at Straight Up"></a>
+                            <a href="https://www.facebook.com/events/158410458190086/" target="_blank"><img src="img/bg-img/events/24th March - Straight Up - Poster.jpg" alt="PerfeKt Pillows at Straight Up"></a>
                          </div> 
                             <!-- Post Date -->
                             <div class="post-date">
@@ -188,7 +188,7 @@
                         <!-- Blog Content -->
                         <div class="blog-content">
                             <!-- Post Title -->
-                            <a href="#" class="post-title">Straight Up | 24 March, 2018</a>
+                            <a href="https://www.facebook.com/events/158410458190086/" target="_blank" class="post-title">Straight Up | 24 March, 2018</a>
                         </div>
                     </div>                   
 
@@ -198,7 +198,7 @@
                         <!-- Post Thumb -->
                         <div class="blog-post-thumb mt-30">
                             <div class="fill">
-                            <a href="#"><img src="img/bg-img/events/23rd March - Phoenix Market City - Poster.jpg" alt="PerfeKt Pillows at Phoenix Market City"></a>
+                            <a href="https://www.facebook.com/phoenixmarketcitybangalore/photos/a.220097141390058.53099.211602265572879/1663800217019736/?type=3" target="_blank"><img src="img/bg-img/events/23rd March - Phoenix Market City - Poster.jpg" alt="PerfeKt Pillows at Phoenix Market City"></a>
                          </div> 
                             <!-- Post Date -->
                             <div class="post-date">
@@ -210,7 +210,7 @@
                         <!-- Blog Content -->
                         <div class="blog-content">
                             <!-- Post Title -->
-                            <a href="#" class="post-title">Phoenix Market City | 23 March, 2018</a>
+                            <a href="https://www.facebook.com/phoenixmarketcitybangalore/photos/a.220097141390058.53099.211602265572879/1663800217019736/?type=3" class="post-title" target="_blank">Phoenix Market City | 23 March, 2018</a>
                         </div>
                     </div>                   
 
